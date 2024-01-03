@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Feastly</string>
+    <string name="next">Next</string>
+    <string name="skip_intro">Skip</string>
+</resources>
